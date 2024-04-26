@@ -141,13 +141,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      // home: homescreen(),
+      home: homescreen(),
       // home: detailScreen(),
-      home: cartScreen(),
+      // home: cartScreen(),
       // home: checkoutScreen(),
       routes: {
         '/home':(context)=>homescreen(),
         '/detail':(context)=>detailScreen(),
+        '/cart':(context)=>cartScreen(),
 
       },
     );

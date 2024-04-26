@@ -192,13 +192,18 @@ class _homescreenState extends State<homescreen> {
                 ),
               ),
               ...List.generate(productList.length, (index) =>
-                  detailbox(
-                    index,
+                  GestureDetector(
+                    onTap: () {
+                      Navigator.of(context).pushNamed('/detail');
+                    },
+                    child: detailbox(
+                      index,
 
-                    productList[index]['name'],
-                    productList[index]['price'].toString(),
-                    productList[index]['description'],
-                    productList[index]['img'],
+                      productList[index]['name'],
+                      productList[index]['price'].toString(),
+                      productList[index]['description'],
+                      productList[index]['img'],
+                    ),
                   ))
             ],
           ),
