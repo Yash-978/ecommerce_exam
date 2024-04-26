@@ -18,16 +18,14 @@ samples, guidance on mobile development, and a full API reference.
 <p align="center">
 <img src="https://github.com/Yash-978/ecommerce_exam/assets/147479013/ef7683b7-6be1-43d0-acc9-f28d5b4aa243" width=22% height=35%>
 </p>
-
-
 <p align="center">
-<img src="https://github.com/Yash-978/ecommerce_exam/assets/147479013/2404f512-0f72-420e-ad25-84dc3069848b" width=22% height=35%>
+<img src="https://github.com/Yash-978/ecommerce_exam/assets/147479013/c50ffa00-ea2c-4d46-850a-a4a705e25bfe" width=22% height=35%>
+</p>
+<p align="center">
+<img src="https://github.com/Yash-978/ecommerce_exam/assets/147479013/caf9a889-5d48-49d6-8b40-503424830b63
+" width=22% height=35%>
 </p>
 
 
-
-
-<p align="center">
-<img src="https://github.com/Yash-978/ecommerce_app/assets/147479013/0e2d50be-3c70-4489-8e9f-353aaa9717ad" width=22% height=35%>
 
 
